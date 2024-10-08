@@ -1,6 +1,8 @@
+![logo]( https://github.com/Anishakya24/Anishakya24/blob/main/github.gif)
 <h1 align="center">Hi 👋, I'm Aniket Shakya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif >
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishakya24&label=Profile%20views&color=0e75b6&style=flat" alt="anishakya24" /> </p>
 
@@ -28,4 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishakya24&" alt="anishakya24" /></p>
 
-![image](https://github.com/user-attachments/assets/2e8fbfb0-de10-42a4-99dd-9c4bf8f2e5ef)
+
